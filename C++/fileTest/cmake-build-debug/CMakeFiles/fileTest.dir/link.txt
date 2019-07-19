@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/fileTest.dir/main.cpp.o  -o fileTest.exe -Wl,--out-implib,libfileTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/School/CS 1410/Programs/Class Templates/dynarray.h
+iostream
+-
+string
+-
+
+/cygdrive/d/School/CS 1410/Programs/Class Templates/main.cpp
+iostream
+-
+dynarray.h
+/cygdrive/d/School/CS 1410/Programs/Class Templates/dynarray.h
+

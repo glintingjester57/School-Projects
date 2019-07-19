@@ -1,0 +1,1 @@
+/usr/bin/c++.exe    -Wl,--enable-auto-import  CMakeFiles/cmTC_bee3b.dir/feature_tests.cxx.o  -o cmTC_bee3b.exe -Wl,--out-implib,libcmTC_bee3b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

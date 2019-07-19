@@ -1,0 +1,78 @@
+37
+Joe Brown
+123 Main St.
+123-6788
+45
+10
+21
+Sam Jones
+45 East State
+661-9000
+30
+12
+15
+Mary Smith
+12 High Street
+401-8900
+40
+15
+37
+Joe Brown
+123 Main St.
+123-6788
+45
+10
+21
+Sam Jones
+45 East State
+661-9000
+30
+12
+15
+Mary Smith
+12 High Street
+401-8900
+40
+15
+37
+Joe Brown
+123 Main St.
+123-6788
+45
+10
+21
+Sam Jones
+45 East State
+661-9000
+30
+12
+15
+Mary Smith
+12 High Street
+401-8900
+40
+15
+1
+H. Potter
+Privet Drive
+201-9090
+40
+12
+2
+A. Dumbledore
+Hogwarts
+803-1230
+3.69403e-319
+6.47582e-319
+3
+R. Weasley
+The Burrow
+892-2000
+40
+10
+4
+R. Hagrid
+Hogwarts
+910-8765
+0
+2.12199e-314

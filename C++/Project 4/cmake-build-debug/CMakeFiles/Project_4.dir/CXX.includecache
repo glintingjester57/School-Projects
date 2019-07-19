@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Personal Documents/School/CS 1410/Programs/Project 4/employee.cpp
+iostream
+/cygdrive/d/Personal Documents/School/CS 1410/Programs/Project 4/iostream
+iomanip
+/cygdrive/d/Personal Documents/School/CS 1410/Programs/Project 4/iomanip
+string
+-
+employee.h
+/cygdrive/d/Personal Documents/School/CS 1410/Programs/Project 4/employee.h
+fstream
+-
+stdexcept
+-
+
+/cygdrive/d/Personal Documents/School/CS 1410/Programs/Project 4/employee.h
+string
+-
+
+/cygdrive/d/Personal Documents/School/CS 1410/Programs/Project 4/main.cpp
+iostream
+-
+string
+-
+employee.h
+/cygdrive/d/Personal Documents/School/CS 1410/Programs/Project 4/employee.h
+fstream
+-
+

@@ -1,0 +1,23 @@
+Here are the scores as entered:
+*max 300
+ me 190
+ skyler 50
+ what 124
+Here are your scores from greatest to lowest:
+ skyler 50
+*max 300
+ me 190
+ what 124
+Here are the scores sorted by name:
+ me 190
+ skyler 50
+ what 124
+*max 300
+Players with a perfect score are marked with an asterisk:
+ me 190
+ skyler 50
+ what 124
+**max 300
+Congratulations  skyler  You won with a score of  50
+Better luck next time  what  Your score was  124
+The average of your scores is 166

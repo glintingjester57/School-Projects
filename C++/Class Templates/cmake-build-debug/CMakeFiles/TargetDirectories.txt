@@ -1,0 +1,3 @@
+/cygdrive/d/School/CS 1410/Programs/Class Templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/School/CS 1410/Programs/Class Templates/cmake-build-debug/CMakeFiles/Class_Templates.dir
+/cygdrive/d/School/CS 1410/Programs/Class Templates/cmake-build-debug/CMakeFiles/edit_cache.dir

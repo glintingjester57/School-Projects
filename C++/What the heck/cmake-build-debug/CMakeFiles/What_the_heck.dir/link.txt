@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/What_the_heck.dir/main.cpp.o  -o What_the_heck.exe -Wl,--out-implib,libWhat_the_heck.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
