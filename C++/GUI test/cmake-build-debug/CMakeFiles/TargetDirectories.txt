@@ -1,3 +1,0 @@
-/cygdrive/d/School/CS 1410/Programs/GUI test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/School/CS 1410/Programs/GUI test/cmake-build-debug/CMakeFiles/GUI_test.dir
-/cygdrive/d/School/CS 1410/Programs/GUI test/cmake-build-debug/CMakeFiles/edit_cache.dir

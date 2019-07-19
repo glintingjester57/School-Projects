@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Employee.dir/main.cpp.o  -o Employee.exe -Wl,--out-implib,libEmployee.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

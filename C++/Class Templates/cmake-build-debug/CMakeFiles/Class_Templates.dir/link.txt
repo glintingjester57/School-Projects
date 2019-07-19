@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Class_Templates.dir/main.cpp.o  -o Class_Templates.exe -Wl,--out-implib,libClass_Templates.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
